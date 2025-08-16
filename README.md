@@ -95,15 +95,11 @@ I have foundational knowledge in **information security** and **computer network
 
 ## 📄 My Resume
 📥 [**Download My CV**](https://drive.google.com/file/d/1D95T8y5PVojMzoN5YvBuuWYq3SwkdWjc/view?usp=sharing)  
-[**My portfolio**](https://rihambouchiha.vercel.app/).
 
 ---
 
 ## 🔗 Connect with Me
 📍 Fès, Morocco
-💼 [LinkedIn Profile](https://www.linkedin.com/in/riham-bouchiha-138419274/)  
+💼 [LinkedIn Profile](https://www.linkedin.com/in/mohammed-amine-el-atrach-2a068027a/)  
 📧 **amine.07.atrache@gmail.com**  
 
----
-
-⭐ **Feel free to check out my projects and collaborate with me!**
