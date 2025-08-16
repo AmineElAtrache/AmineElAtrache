@@ -4,7 +4,7 @@
 ## 🚀 About Me
 
 🎓 I’m an **AI Engineering student** at **ENIAD**.  
-💡 **AI Developer — Computer Vision & NLP | Full‑Stack (React/Node)**  
+💡 **AI Developer — Computer Vision & NLP**  
 📫 **amine.07.atrache@gmail.com**
 
 - 🔭 Currently working on **real‑time CV (gesture recognition, facial emotion detection) and NLP (sentiment analysis)**  
@@ -15,6 +15,19 @@
 ---
 
 ## 🛠️ Skills
+
+### 🤖 AI & Machine Learning
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch\&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge\&logo=keras\&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge\&logo=scikitlearn\&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge\&logo=opencv\&logoColor=white)
+![Hugging%20Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge\&logo=huggingface\&logoColor=black)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge\&logo=jupyter\&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
+![dlib](https://img.shields.io/badge/dlib-0A0A0A?style=for-the-badge\&logoColor=white)
 
 ### 💻 Programming Languages
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
