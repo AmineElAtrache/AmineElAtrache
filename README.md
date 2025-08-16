@@ -44,13 +44,13 @@ Created a PC intervention management system with accurate service tracking and r
 
 ## 📊 GitHub Stats
 
-> These cards auto‑update. Replace `YOUR_USERNAME` with your GitHub username.
+> These cards auto‑update. Replace `AmineElAtrache` with your GitHub username.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AmineElAtrache&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmineElAtrache&layout=compact)
 
-![Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME)
+![Streak](https://streak-stats.demolab.com?user=AmineElAtrache)
 
 ---
 
