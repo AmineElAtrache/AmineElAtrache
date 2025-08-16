@@ -70,15 +70,28 @@
 
 ---
 
+Here are two clean, drop-in options you can paste into your README. Pick the one you prefer (or mix them).
+
+---
+
 ### 🛡️ Security & Networking
-I have foundational knowledge in **information security** and **computer networking**, including:
 
-- 🔐 Basics of cybersecurity principles, encryption, and secure coding practices  
-- 🌐 Understanding of network protocols, TCP/IP, routing, and network architecture  
-- 🛠️ Familiarity with firewalls, VPNs, and network troubleshooting tools  
+* **Foundations:** CIA triad, threat modeling, least privilege, secure coding basics
+* **Crypto & Auth:** hashing, symmetric/asymmetric encryption, TLS/HTTPS, JWT/OAuth
+* **Networking:** OSI & TCP/IP, subnetting, routing & switching, NAT, DNS, DHCP, VLANs
+* **Security Controls:** firewalls, VPNs, network segmentation, hardening checklists, IDS/IPS concepts
+* **Troubleshooting:** packet capture & analysis; latency, throughput, and DNS issues
+* **Tools:** Wireshark, OpenVPN, Linux networking (`ip`, `ss`, `tcpdump`, `ufw`)
 
-![Security](https://img.shields.io/badge/Security-FF6F61?style=for-the-badge&logo=keybase&logoColor=white)
-![Networking](https://img.shields.io/badge/Networking-0A74DA?style=for-the-badge&logo=cisco&logoColor=white)
+---
+
+### 🔐 Security & Networking — Tools
+
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge\&logo=wireshark\&logoColor=white)
+![OpenVPN](https://img.shields.io/badge/OpenVPN-EA7E20?style=for-the-badge\&logo=openvpn\&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge\&logo=cisco\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+
 
 ---
 
