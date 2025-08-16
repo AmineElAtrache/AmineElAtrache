@@ -70,28 +70,23 @@
 
 ---
 
-Here are two clean, drop-in options you can paste into your README. Pick the one you prefer (or mix them).
-
----
-
 ### 🛡️ Security & Networking
 
-* **Foundations:** CIA triad, threat modeling, least privilege, secure coding basics
-* **Crypto & Auth:** hashing, symmetric/asymmetric encryption, TLS/HTTPS, JWT/OAuth
-* **Networking:** OSI & TCP/IP, subnetting, routing & switching, NAT, DNS, DHCP, VLANs
-* **Security Controls:** firewalls, VPNs, network segmentation, hardening checklists, IDS/IPS concepts
-* **Troubleshooting:** packet capture & analysis; latency, throughput, and DNS issues
-* **Tools:** Wireshark, OpenVPN, Linux networking (`ip`, `ss`, `tcpdump`, `ufw`)
+I have solid foundations in information security and computer networking:
 
----
+- **Foundations:** CIA triad, threat modeling, least privilege, secure coding
+- **Crypto & Auth:** hashing, symmetric/asymmetric encryption, TLS/HTTPS, JWT/OAuth
+- **Networking:** OSI & TCP/IP, subnetting, routing & switching, NAT, DNS, DHCP, VLANs
+- **Security Controls:** firewalls, VPNs, network segmentation, hardening, IDS/IPS concepts
+- **Troubleshooting:** packet capture & analysis; latency/throughput/DNS issues
 
-### 🔐 Security & Networking — Tools
-
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge\&logo=wireshark\&logoColor=white)
-![OpenVPN](https://img.shields.io/badge/OpenVPN-EA7E20?style=for-the-badge\&logo=openvpn\&logoColor=white)
-![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge\&logo=cisco\&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
-
+**Tools**
+  
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![OpenVPN](https://img.shields.io/badge/OpenVPN-EA7E20?style=for-the-badge&logo=openvpn&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Nmap](https://img.shields.io/badge/Nmap-004B87?style=for-the-badge&logo=nmap&logoColor=white)
 
 ---
 
@@ -120,7 +115,7 @@ Here are two clean, drop-in options you can paste into your README. Pick the one
 
 
 ## 📄 My Resume
-📥 [**Download My CV**](https://drive.google.com/file/d/1D95T8y5PVojMzoN5YvBuuWYq3SwkdWjc/view?usp=sharing)  
+📥 [**Download My CV**](https://drive.google.com/file/d/16cR9he7nhxk16bwOOlYaeHAjbWCbHWXI/view?usp=drive_link)  
 
 ---
 
