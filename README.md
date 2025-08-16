@@ -5,7 +5,7 @@ Artificial Intelligence developer & AI Engineering student passionate about **co
 
 - 🔭 Recent work: real‑time **gesture recognition**, **facial emotion detection**, and **object tracking** using OpenCV & deep learning.
 - 🧠 Comfortable with **BERT/LSTM** pipelines for sentiment analysis and classic ML using Scikit‑learn.
-- 🌱 Currently studying for an **Engineer’s Degree in AI** at ENIAD (2024–2027).
+- 🌱 Currently studying for an **Engineer’s Degree in AI** at ENIAD (2024–2026).
 - 💬 Ask me about: **Python, PyTorch, TensorFlow, Computer Vision, NLP, React/Node.js**.
 - 📫 How to reach me: **amine.07.atrache@gmail.com**
 - 📄 My résumé: [Download PDF](./assets/Mohammed_Amine_El_Atrach_CV.pdf)
@@ -43,8 +43,6 @@ Created a PC intervention management system with accurate service tracking and r
 ---
 
 ## 📊 GitHub Stats
-
-> These cards auto‑update. Replace `AmineElAtrache` with your GitHub username.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AmineElAtrache&show_icons=true)
 
